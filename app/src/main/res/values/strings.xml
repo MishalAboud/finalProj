@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finalProj</string>
+    <string name="search">string</string>
+    <string name="search_hint">string hint</string>
+</resources>
